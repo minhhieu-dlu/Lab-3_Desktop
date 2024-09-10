@@ -1,0 +1,18 @@
+﻿Mã Số, Họ Tên, Ngày Sinh, Địa Chỉ, Lớp, Phái, Chuyên Ngành
+001, Trần Minh Hiếu, 10/05/2004, Đà Lạt, CTK31, Nam, Mạng truyền thông
+002, Trần Minh Hiếu, 11/05/2004, Đà Lạt, CTK32, Nam, Khoa học máy tính
+003, Trần Minh Hiếu, 12/05/2004, Đà Lạt, CTK33, Nam, Mạng truyền thông
+004, Trần Minh Hiếu, 13/05/2004, Đà Lạt, CTK33, Nam, Trí tuệ nhân tạo
+005, Trần Minh Hiếu, 14/05/2004, Đà Lạt, CTK33, Nam, Mạng truyền thông
+006, Trần Minh Hiếu, 15/05/2004, Đà Lạt, CTK32, Nam, Tin học ứng dụng
+007, Trần Minh Hiếu, 16/05/2004, Đà Lạt, CTK31, Nam, Mạng truyền thông
+008, Trần Minh Hiếu, 17/05/2004, Đà Lạt, CTK31, Nam, Công nghệ phần mềm
+009, Trần Minh Hiếu, 18/05/2004, Đà Lạt, CTK33, Nam, Mạng truyền thông
+010, Trần Minh Hiếu, 19/05/2004, Đà Lạt, CTK34, Nam, Hệ thống thông tin
+011, Trần Minh Hiếu, 20/05/2004, Đà Lạt, CTK34, Nam, Mạng truyền thông
+012, Trần Minh Hiếu, 21/05/2004, Đà Lạt, CTK34, Nam, Tin học ứng dụng
+013, Trần Minh Hiếu, 22/05/2004, Đà Lạt, CTK32CD, Nam, Hệ thống thông tin
+013, Trần Minh Hiếu, 23/05/2004, Đà Lạt, CTK32CD, Nam, Mạng truyền thông
+014, Trần Minh Hiếu, 24/05/2004, Đà Lạt, CTK31, Nam, Hệ thống thông tin
+016, Trần Minh Hiếu, 01/05/2004, Đà Lạt, CTK34, Nam, Mạng truyền thông
+ 					                              

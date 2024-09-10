@@ -1,0 +1,10 @@
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\bin\Debug\Bài 1.exe.config
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\bin\Debug\Bài 1.exe
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\bin\Debug\Bài 1.pdb
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\obj\Debug\Bài 1.csproj.AssemblyReference.cache
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\obj\Debug\Bài_1.frm_Demo.resources
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\obj\Debug\Bài_1.Properties.Resources.resources
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\obj\Debug\Bài 1.csproj.GenerateResource.cache
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\obj\Debug\Bài 1.csproj.CoreCompileInputs.cache
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\obj\Debug\Bài 1.exe
+D:\2212368_TranMinhHieu_CTK46A\2212368_TranMinhHieu_lab3\Bài 1\obj\Debug\Bài 1.pdb
